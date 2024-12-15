@@ -3115,3 +3115,9 @@ blockquote {
 .portfolio-details .portfolio-description p {
   padding: 0;
 }
+
+@media (max-width: 768px) {
+  p{
+    font-size: 35px;
+  }
+}
