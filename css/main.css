@@ -500,6 +500,8 @@ input[type="submit"]:focus {
   line-height: 14px;
   font-size: 12px;
   text-align: center;
+  background-color: #444444 !important;
+  padding: 0px !important;
 }
 
 .copyrights a:hover{
@@ -3101,4 +3103,5 @@ blockquote {
 
 .copyrights{
   padding: 20px 20px 10px 20px !important;
+
 }
